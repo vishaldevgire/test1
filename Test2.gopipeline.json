@@ -1,4 +1,4 @@
-{
+
   "group": "Test",
   "name": "Test2",
   "label_template": "${COUNT}",
